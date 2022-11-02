@@ -41,7 +41,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<div>
+<div style={{alignItems:"center"}}>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
