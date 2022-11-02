@@ -19,11 +19,11 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 **Talking about Personal Stuffs:**
 
-- <img src="https://github.com/Labir852/Labir852/assets/developer.gif?raw=true" width="21" /> &nbsp;&nbsp; I’m currently working on something cool;
-- <img src="https://github.com/Labir852/Labir852/assets/lightning.gif?raw=true" width="21" /> &nbsp;&nbsp; I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/LABIR/);
-- <img src="https://github.com/Labir852/Labir852/assets/laptop.gif?raw=true" width="21" /> &nbsp;&nbsp;I’m looking to collaborate on open source softwares and companies software.
-- <img src="https://github.com/Labir852/Labir852/assets/message.gif?raw=true" width="21" /> &nbsp;&nbsp; Ask me about anything, I am happy to help;
-- <img src="https://github.com/Labir852/Labir852/assets/letterbox.gif?raw=true" width="21" /> &nbsp;&nbsp; How to reach me: tanvir.labir@gmail.com;
+- <img src="https://github.com/Labir852/Labir852/blob/main/assets/developer.gif?raw=true" width="21" /> &nbsp;&nbsp; I’m currently working on something cool;
+- <img src="https://github.com/Labir852/Labir852/blob/main/assets/lightning.gif?raw=true" width="21" /> &nbsp;&nbsp; I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/LABIR/);
+- <img src="https://github.com/Labir852/Labir852/blob/main/assets/laptop.gif?raw=true" width="21" /> &nbsp;&nbsp;I’m looking to collaborate on open source softwares and companies software.
+- <img src="https://github.com/Labir852/Labir852/blob/main/assets/message.gif?raw=true" width="21" /> &nbsp;&nbsp; Ask me about anything, I am happy to help;
+- <img src="https://github.com/Labir852/Labir852/blob/main/assets/letterbox.gif?raw=true" width="21" /> &nbsp;&nbsp; How to reach me: tanvir.labir@gmail.com;
 - <img src="https://github.com/Labir852/Labir852/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](https://github.com/Labir852/Labir852/blob/adf2fad98e95cf0a1ba946ca22cdc2febeb3e3f8/Tanvir's%20Resume.pdf).
 
 </br>
