@@ -31,11 +31,6 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 📊 **This Week I Spent My Time On:**
 
 <!--START_SECTION:waka-->
-
-```text
-JavaScript   2 hours          █████████████████████████   100.00 %
-```
-
 <!--END_SECTION:waka-->
 
 📈 **My GitHub Stats:**
@@ -44,4 +39,3 @@ JavaScript   2 hours          ████████████████�
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Labir852&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Labir852&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
-[![Labir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Labir852)](https://github.com/Labir852/github-readme-stats)
