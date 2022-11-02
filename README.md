@@ -16,8 +16,6 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
-
 **Talking about Personal Stuffs:**
 
 - <img src="https://github.com/Labir852/Labir852/blob/main/assets/developer.gif?raw=true" width="21" /> &nbsp;&nbsp; I’m currently working as a Software Engineer and contributing to frontend and backend for building web applications.
