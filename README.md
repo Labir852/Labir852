@@ -70,4 +70,4 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 </p>
 
 
-![Snake animation](https://github.com/Labir852/Labir852/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Labir852/Labir852/blob/output/github-contribution-grid-snake.svg&theme=dark&background=000000)
