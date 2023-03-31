@@ -35,10 +35,10 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   3 hrs 50 mins   ███████████████████▒░░░░░   77.47 %
-HTML         48 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.27 %
-CSS          14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
-Text         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+JavaScript   3 hrs 25 mins   ███████████████████░░░░░░   75.41 %
+HTML         48 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.76 %
+CSS          14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
+Text         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
 ```
 
 <!--END_SECTION:waka-->
