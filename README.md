@@ -66,7 +66,7 @@ No activity tracked
 
 📈 **My GitHub Stats:**
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Labir852&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=labir852)](https://git.io/streak-stats)
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Labir852&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark&background=000000" />
