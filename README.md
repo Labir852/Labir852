@@ -74,4 +74,4 @@ JavaScript   17 mins         █████████████████
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=labir852&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=false&layout=compact&langs_count=8&theme=dark&background=000000"/>
 </p>
 
-![Snake animation](https://github.com/labir852/labir852/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Labir852/Labir852/blob/output/github-contribution-grid-snake.svg)
