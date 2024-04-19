@@ -25,7 +25,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 - <img src="https://github.com/Labir852/Labir852/blob/main/assets/lightning.gif?raw=true" width="21" /> &nbsp;&nbsp; I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/LABIR/);
 - <img src="https://github.com/Labir852/Labir852/blob/main/assets/laptop.gif?raw=true" width="21" /> &nbsp;&nbsp;I’m looking to collaborate on open source softwares and companies software.
 - <img src="https://github.com/Labir852/Labir852/blob/main/assets/message.gif?raw=true" width="21" /> &nbsp;&nbsp; Ask me about anything, I am happy to help;
-- <img src="https://github.com/Labir852/Labir852/blob/main/assets/letterbox.gif?raw=true" width="21" /> &nbsp;&nbsp; How to reach me: tanvir.labir@gmail.com; [![Linkedin Badge](https://img.shields.io/badge/-Labir-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tanvir-anjum-l-54294513a/)
+- <img src="https://github.com/Labir852/Labir852/blob/main/assets/letterbox.gif?raw=true" width="21" /> &nbsp;&nbsp; How to reach me: [![Gmail Badge](https://img.shields.io/badge/-tanvir.labir@gmail.com-orange?style=flat&logo=gmail&logoColor=white)](mailto:tanvir.labir@gmail.com/) [![Linkedin Badge](https://img.shields.io/badge/-Labir-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tanvir-anjum-l-54294513a/)
 - <img src="https://github.com/Labir852/Labir852/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](https://github.com/Labir852/Labir852/blob/main/Tanvir's%20Resume.pdf).
 
 </br>
