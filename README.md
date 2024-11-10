@@ -65,10 +65,10 @@ JavaScript   17 mins         █████████████████
 
 📈 **My GitHub Stats:**
 
-
+<div align="center">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=labir852)](https://git.io/streak-stats)
-
-<p>
+</div>
+<p align="center">
   <img height="180em" src="[![Labir's GitHub stats](https://github-readme-stats.vercel.app/api?username=labir852)](https://github.com/anuraghazra/github-readme-stats)" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=labir852&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=false&layout=compact&langs_count=8&theme=dark&background=000000"/>
 </p>
