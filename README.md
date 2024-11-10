@@ -62,19 +62,20 @@ JavaScript   17 mins         █████████████████
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
 </div> 
-<br/> <br/><br/> <br/>
+<br/> <br/>
 <div align="center">
   
  <h3> 📈 My Github Stats: </h3>
- <br/> <br/>
+ <br/> 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=labir852)](https://git.io/streak-stats)
 
 <p>
-  <img height="180em" src="[![Labir's GitHub stats](https://github-readme-stats.vercel.app/api?username=labir852)](https://github.com/anuraghazra/github-readme-stats)" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=labir852&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=false&layout=compact&langs_count=8&theme=dark&background=000000"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=labir852" alt="Labir's GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=labir852&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=false&layout=compact&langs_count=8&theme=dark&background=000000" alt="Top languages" />
 </p>
 </div>
+
 <div align="center">
 <picture>
   <source
