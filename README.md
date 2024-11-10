@@ -45,7 +45,7 @@ JavaScript   17 mins         █████████████████
 ### :hammer_and_wrench: Languages and Tools :
 
 <div align="center">
-  <h4>Programming Languages: </h4>
+  <h4 style="margin: 0;">Programming Languages: </h4>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
