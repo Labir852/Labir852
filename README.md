@@ -62,9 +62,11 @@ JavaScript   17 mins         █████████████████
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
 </div> 
-
+<br/> <br/><br/> <br/>
 <div align="center">
-📈 **My GitHub Stats:**
+  
+ <h3> 📈 My Github Stats: </h3>
+ <br/> <br/>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=labir852)](https://git.io/streak-stats)
 
