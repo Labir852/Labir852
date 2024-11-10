@@ -82,7 +82,7 @@ JavaScript   17 mins         █████████████████
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=labir852" alt="Labir's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=labir852&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=false&layout=compact&langs_count=8&theme=dark&background=000000" alt="Top languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=labir852&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=false&layout=compact&langs_count=8&theme=light&background=fffff" alt="Top languages" />
 </p>
 </div>
 
