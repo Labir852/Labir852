@@ -1,5 +1,5 @@
 
-<h2 align="center">&gt; Hi there, <img src="https://github.com/Labir852/Labir852/blob/a452ded0b090b86e67c1eca0a7d04aee81b1309c/assets/hello.gif" width="50" > <br/> I'm <a href="#" target="_blank">Tanvir Anjum Labir</a></h2>
+<h2 align="center">&gt; Hi there, <img src="https://github.com/Labir852/Labir852/blob/a452ded0b090b86e67c1eca0a7d04aee81b1309c/assets/hello.gif" width="50" > I'm <a href="#" target="_blank">Tanvir Anjum Labir</a></h2>
 <h3 align="center"><a href="#" target="_blank">Software Engineer , Researcher, Instructor</a></h3>
 <!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp> -->
 
