@@ -11,7 +11,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Labir852.Labir852)
 
-I am a software engineer. I love programming, technology, speaking and traveling.
+I am a software engineer. I love programming, technology, speaking and travelling.
 
 As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 <img align="right" alt="GIF" src="https://github.com/Labir852/Labir852/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
@@ -20,9 +20,9 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 **Talking about Personal Stuffs:**
 
-- <img src="https://github.com/Labir852/Labir852/blob/main/assets/developer.gif?raw=true" width="21" /> &nbsp;&nbsp; I’m currently working as a Software Engineer and contributing to frontend and backend for building web applications.
+- <img src="https://github.com/Labir852/Labir852/blob/main/assets/developer.gif?raw=true" width="21" /> &nbsp;&nbsp; I’m currently working as a Software Engineer and contributing to frontend using ReactJs and backend using ASP.NET Core & MSSQL SERVER (not limited to these) for building web applications.
 ;
-- <img src="https://github.com/Labir852/Labir852/blob/main/assets/lightning.gif?raw=true" width="21" /> &nbsp;&nbsp; I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/LABIR/);
+- <img src="https://github.com/Labir852/Labir852/blob/main/assets/lightning.gif?raw=true" width="21" /> &nbsp;&nbsp; I’m currently improving my Data Structures and Algorithms on [leetcode](https://leetcode.com/LABIR/);
 - <img src="https://github.com/Labir852/Labir852/blob/main/assets/laptop.gif?raw=true" width="21" /> &nbsp;&nbsp;I’m looking to collaborate on open source softwares and companies software.
 - <img src="https://github.com/Labir852/Labir852/blob/main/assets/message.gif?raw=true" width="21" /> &nbsp;&nbsp; Ask me about anything, I am happy to help;
 - <img src="https://github.com/Labir852/Labir852/blob/main/assets/letterbox.gif?raw=true" width="21" /> &nbsp;&nbsp; How to reach me: [![Gmail Badge](https://img.shields.io/badge/-tanvir.labir@gmail.com-orange?style=flat&logo=gmail&logoColor=white)](mailto:tanvir.labir@gmail.com/) [![Linkedin Badge](https://img.shields.io/badge/-Labir-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tanvir-anjum-l-54294513a/)
@@ -74,4 +74,4 @@ JavaScript   17 mins         █████████████████
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=labir852&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=false&layout=compact&langs_count=8&theme=dark&background=000000"/>
 </p>
 
-![Snake animation](https://github.com/Labir852/Labir852/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/Labir852/Labir852/blob/output/github-contribution-grid-snake2.svg)
