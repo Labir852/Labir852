@@ -1,6 +1,6 @@
 
 ### <samp>&gt; Hi there, <img src="https://github.com/Labir852/Labir852/blob/a452ded0b090b86e67c1eca0a7d04aee81b1309c/assets/hello.gif" width="50" > I'm <a href="#" target="_blank">Tanvir Anjum Labir</a>
-### <samp>&gt;<p align="center"><a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&weight=900&size=25&duration=4000&pause=500&color=13B5F7&center=true&width=435&lines=Software+Engineer;Researcher;Instructor" alt="Typing SVG" /></a></p> </samp>
+### <p align="center"><a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&weight=900&size=25&duration=4000&pause=500&color=13B5F7&center=true&width=435&lines=Software+Engineer;Researcher;Instructor" alt="Typing SVG" /></a></p> </samp>
 <!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp> -->
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanvir-anjum-l-54294513a/)
