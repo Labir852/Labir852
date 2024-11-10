@@ -10,9 +10,9 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Labir852.Labir852)
 
-I am a software engineer. I love programming, technology, speaking and travelling.
+I am a software engineer, researcher, Instructor . I love to do programming, building and developing technologies, speaking, teaching and travelling.
 
-As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference and love to work with challenges.
 <img align="right" alt="GIF" src="https://github.com/Labir852/Labir852/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
 
 
