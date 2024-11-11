@@ -93,7 +93,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/labir852/labir852/main/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/labir852/labir852/main/github-contribution-grid-snake.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
