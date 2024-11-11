@@ -35,16 +35,15 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 📊 **The Languages I Spent My Time On:** [![wakatime](https://wakatime.com/badge/user/56096fd6-6779-4e27-b7b6-b3eac7261c97.svg)](https://wakatime.com/@56096fd6-6779-4e27-b7b6-b3eac7261c97)
 <div align="center">
-<div>
 <!--START_SECTION:waka-->
 
 ![Labir's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@LABIR)
 <!--END_SECTION:waka-->
 </div>
+---
 
-
-<div>
-
+### :hammer_and_wrench: Languages and Tools :
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="csharp" alt="csharp" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;&nbsp;
