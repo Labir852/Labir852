@@ -42,7 +42,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 </div>
 
 
-<div align="right">
+<div align="right",width="45%">
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="csharp" alt="csharp" width="40" height="40"/>&nbsp;&nbsp;
