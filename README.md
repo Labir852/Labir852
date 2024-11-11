@@ -34,13 +34,13 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 </br>
 
 📊 **The Languages I Spent My Time On:** [![wakatime](https://wakatime.com/badge/user/56096fd6-6779-4e27-b7b6-b3eac7261c97.svg)](https://wakatime.com/@56096fd6-6779-4e27-b7b6-b3eac7261c97)
-
+<div align="center">
 <!--START_SECTION:waka-->
 
 ![Labir's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@LABIR)
 
 <!--END_SECTION:waka-->
-
+</div>
 
 ---
 
