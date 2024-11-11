@@ -40,6 +40,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 ![Labir's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@LABIR)
 <!--END_SECTION:waka-->
 </div>
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
