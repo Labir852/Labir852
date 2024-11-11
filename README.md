@@ -37,9 +37,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 <!--START_SECTION:waka-->
 
-```txt
-JavaScript   17 mins         █████████████████████████   100.00 %
-```
+![Labir's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=labir852)
 
 <!--END_SECTION:waka-->
 
@@ -102,7 +100,7 @@ JavaScript   17 mins         █████████████████
   />
   <img
     alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/labir852/snk/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
 </div>
