@@ -33,7 +33,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 </br>
 
-📊 **This Week I Spent My Time On:**
+📊 **The Languages I Spent My Time On:** [![wakatime](https://wakatime.com/badge/user/56096fd6-6779-4e27-b7b6-b3eac7261c97.svg)](https://wakatime.com/@56096fd6-6779-4e27-b7b6-b3eac7261c97)
 
 <!--START_SECTION:waka-->
 
