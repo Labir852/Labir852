@@ -36,7 +36,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 <div style="display: flex; align-items: flex-start; justify-content: space-between;">
 
   <!-- Left Section: WakaTime Stats -->
-  <div align="left" style="flex: 1;">
+  <div style="width: 45%; text-align: left;">
     <h2>📊 The Languages I Spent My Time On:</h2>
     <a href="https://wakatime.com/@56096fd6-6779-4e27-b7b6-b3eac7261c97">
       <img src="https://wakatime.com/badge/user/56096fd6-6779-4e27-b7b6-b3eac7261c97.svg" alt="WakaTime Badge">
@@ -49,9 +49,9 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
   </div>
 
   <!-- Right Section: Languages and Tools -->
-  <div align="right" style="flex: 1; padding-left: 20px;">
+  <div style="width: 45%; text-align: right;">
     <h2>🛠️ Languages and Tools:</h2>
-    <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: flex-end;">
       <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C#" alt="C#" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
