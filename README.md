@@ -34,6 +34,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 </br>
 
 📊 **The Languages I Spent My Time On:** [![wakatime](https://wakatime.com/badge/user/56096fd6-6779-4e27-b7b6-b3eac7261c97.svg)](https://wakatime.com/@56096fd6-6779-4e27-b7b6-b3eac7261c97)
+<div display="flex">
 <div align="left",width="45%">
 <!--START_SECTION:waka-->
 
@@ -71,6 +72,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;&nbsp;
 </div> 
+</div>
 <br/> <br/>
 
 
