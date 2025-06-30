@@ -1,5 +1,5 @@
 <h2 align="center">👋 Hi there, I'm <a href="https://tanviranjumlabir.netlify.app/" target="_blank">Tanvir Anjum Labir</a></h2>
-<h3 align="center">🚀 Full-Stack Developer | 🧠 AI Researcher | 🎓 MS Aspirant | 💼 Open to Remote Roles</h3>
+<h3 align="center">🚀 Full-Stack Software Engineer | 🧠 AI Researcher | 🎓 MS Aspirant | 💼 Open to Remote Roles</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tanviranjumlabir/"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
