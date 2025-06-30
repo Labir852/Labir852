@@ -71,7 +71,7 @@ I thrive at the intersection of **tech and impact** — combining my engineering
 
 - 🎓 **BSc in Computer Science & Engineering**, Primeasia University  
   CGPA: 3.63/4.00  
-  📜 Thesis: *"Enhancing Emotion Recognition through Deep Learning and Brain-Computer Interface Technology"*
+  📜 Thesis: *"[Enhancing Emotion Recognition through Deep Learning and Brain-Computer Interface Technology](https://doi.org/10.25163/primeasia.4140046)"*
 
 - 🗣 **IELTS Score**: 6.5  
   Speaking: 7.5 | Listening: 7 | Writing: 6 | Reading: 5
