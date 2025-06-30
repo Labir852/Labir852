@@ -100,5 +100,6 @@ I thrive at the intersection of **tech and impact** — combining my engineering
 </p>
 
 ---
-
+<p align="center">
 ![Snake animation](https://raw.githubusercontent.com/labir852/labir852/main/github-contribution-grid-snake.svg)
+</p>
