@@ -20,7 +20,6 @@ I thrive at the intersection of **tech and impact** — combining my engineering
 
 ### 🎯 What I'm Focusing on Now
 
-- 🔍 Applying for fully funded MS in AI/ML & HCI (Fall 2026 intake)
 - 🌍 Exploring full-time remote dev roles in SaaS or finance-tech
 - 🧠 Building a SaaS platform powered by AI for real-world impact
 - 💻 Improving DSA skills on [LeetCode](https://leetcode.com/LABIR/) and [Codeforces](https://codeforces.com/profile/LABIR)
